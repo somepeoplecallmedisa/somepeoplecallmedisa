@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @pycoinfu
+<h2>👋 hi, I’m @pycoinfu</h2>
 
-- 👀 I’m interested in Python, Pygame, and other cool stuff
-
-- 📫 How to reach me: disappointment#8603
+i love python, [pygame](https://github.com/pygame), and other cool stuff
