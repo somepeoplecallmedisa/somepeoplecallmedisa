@@ -5,7 +5,6 @@
 <ul>
     <li><a href="https://github.com/Matiiss/pygame_examples">pygame examples repository</a></li>
     <li><a href="https://github.com/blankRiot96/Daves-Anniversary">dave's anniversary (pygame community summer jam 2022)</a></li>
-    <li><a href="https://github.com/pycoinfu/platformer">my platformer game</a></li>
     <li><a href="https://github.com/pygame-guide-for-sneks/pygame-guide-for-sneks.github.io">pygame guide for sneks</a></li>
 </ul>
 
