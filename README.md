@@ -1,7 +1,7 @@
 <h2>Hi!</h2>
-<h4>I'm just a hobbyist programmer who likes python and pygame, and sometimes makes games with it. I also love music and have been playing guitar for several years now!</h4>
+<h4>I'm just a hobbyist programmer who likes python and pygame, and sometimes makes games with those. I also love music and have been playing guitar for several years now!</h4>
 
-<h2>Things i'm a part of:</h2>
+<h2>Things I'm a part of:</h2>
 <ul>
     <li><a href="https://github.com/Matiiss/pygame_examples">pygame examples repository</a></li>
     <li><a href="https://github.com/blankRiot96/Daves-Anniversary">dave's anniversary (pygame community summer jam 2022)</a></li>
