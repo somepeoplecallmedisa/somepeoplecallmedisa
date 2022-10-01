@@ -8,8 +8,7 @@
     <li><a href="https://github.com/pygame-guide-for-sneks/pygame-guide-for-sneks.github.io">pygame guide for sneks</a></li>
 </ul>
 
-<a href="https://coinfu.itch.io/">My itch.io</a>
-
-~~I also made a <a href="https://github.com/pygame/pygame/pull/3455">pygame PR</a> once and I'm proud of it :)~~
+<h3><a href="https://coinfu.itch.io/">My itch.io</a></h3>
+~~I've also made a <a href="https://github.com/pygame/pygame/pull/3455">pygame PR</a> once and I'm proud of it :)~~
 
 [![pycoinfu's GitHub stats](https://github-readme-stats.vercel.app/api?username=pycoinfu&hide=stars&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
