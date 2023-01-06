@@ -1,5 +1,5 @@
 <h2>Hi!</h2>
-<h4>I'm just a hobbyist programmer who likes python and pygame, and sometimes makes games with them. I also love music and have been playing guitar for several years now!</h4>
+<h4>I'm just a hobbyist programmer who likes python and pygame</h4>
 
 <h2>Things I'm a part of:</h2>
 <ul>
