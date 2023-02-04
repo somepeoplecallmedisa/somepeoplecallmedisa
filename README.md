@@ -1,15 +1,14 @@
-<h2>Hi!</h2>
-<h4>I'm just a hobbyist programmer who likes python and pygame</h4>
+### Hello! 👋
+I'm just a hobbyist python programmer, with experience in using the pygame library. As of now, I'm interested in learning front-end web development.
 
-<h2>Things I'm a part of:</h2>
-<ul>
-    <li><a href="https://github.com/Matiiss/pygame_examples">pygame examples repository</a></li>
-    <li><a href="https://github.com/blankRiot96/Daves-Anniversary">dave's anniversary (pygame community summer jam 2022)</a></li>
-    <li><a href="https://github.com/pygame-guide-for-sneks/pygame-guide-for-sneks.github.io">pygame guide for sneks</a></li>
-</ul>
+### Things I'm a part of:
+- <a href="https://github.com/Matiiss/pygame_examples">pygame examples repository</a>
+- <a href="https://github.com/blankRiot96/Daves-Anniversary">dave's anniversary (pygame community summer jam 2022)</a>
 
-<h3><a href="https://coinfu.itch.io/">My itch.io</a></h3>
+### Things I'm good at:
+<img src="https://media.discordapp.net/attachments/1065276745076445194/1071422357186556024/pythonlogo.png" width=48> <img src="https://media.discordapp.net/attachments/1065276745076445194/1071422043150614599/communityIcon_cmjo55tgjjp81.png" width=48> <img src="https://media.discordapp.net/attachments/1065276745076445194/1071422445677989918/htmllogo.png" width=48>
 
-~~I've also made a <a href="https://github.com/pygame/pygame/pull/3455">pygame PR</a> once and I'm proud of it :)~~
+### Things I want to get good at:
+<img src="https://media.discordapp.net/attachments/1065276745076445194/1071422394339692604/csslogo.png?width=660&height=701" width=48> <img src="https://media.discordapp.net/attachments/1065276745076445194/1071422409330151494/jslogo.png" width=35>
 
 [![pycoinfu's GitHub stats](https://github-readme-stats.vercel.app/api?username=pycoinfu&hide=stars&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
