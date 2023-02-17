@@ -7,6 +7,7 @@ I'm just a hobbyist python programmer, with experience in using the pygame libra
 
 ### Things I'm good at:
 <img src="https://media.discordapp.net/attachments/1065276745076445194/1071422357186556024/pythonlogo.png" width=48> <img src="https://media.discordapp.net/attachments/1065276745076445194/1071422043150614599/communityIcon_cmjo55tgjjp81.png" width=48> <img src="https://media.discordapp.net/attachments/1065276745076445194/1071422445677989918/htmllogo.png" width=48>
+<img src="https://media.discordapp.net/attachments/1065276745076445194/1076165767260811284/git.png?width=701&height=701" width=48>
 
 ### Things I want to get good at:
 <img src="https://media.discordapp.net/attachments/1065276745076445194/1071422394339692604/csslogo.png?width=660&height=701" width=48> <img src="https://media.discordapp.net/attachments/1065276745076445194/1071422409330151494/jslogo.png" width=35><img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width=48><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width=48>
