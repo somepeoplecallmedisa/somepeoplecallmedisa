@@ -13,3 +13,4 @@ I'm just a hobbyist python programmer, with experience in using the pygame libra
 <img src="https://media.discordapp.net/attachments/1065276745076445194/1071422394339692604/csslogo.png?width=660&height=701" width=48> <img src="https://media.discordapp.net/attachments/1065276745076445194/1071422409330151494/jslogo.png" width=35><img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width=48><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width=48>
 
 [![pycoinfu's GitHub stats](https://github-readme-stats.vercel.app/api?username=pycoinfu&hide=stars&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pycoinfu&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
