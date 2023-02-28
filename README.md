@@ -10,10 +10,10 @@ I'm just a hobbyist python programmer, with experience in using the pygame libra
 <img src="https://media.discordapp.net/attachments/1065276745076445194/1076165767260811284/git.png?width=701&height=701" width=48>
 
 ### Things I sorta' understand:
-<img src="https://media.discordapp.net/attachments/1065276745076445194/1071422394339692604/csslogo.png?width=660&height=701" width=48>
+<img src="https://media.discordapp.net/attachments/1065276745076445194/1071422394339692604/csslogo.png?width=660&height=701" width=48> <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width=48>
 
 ### Things I want to get good at:
-<img src="https://media.discordapp.net/attachments/1065276745076445194/1071422409330151494/jslogo.png" width=35><img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width=48><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width=48>
+<img src="https://media.discordapp.net/attachments/1065276745076445194/1071422409330151494/jslogo.png" width=35><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width=48><img src="https://images-ext-1.discordapp.net/external/AmwX4jYD808doHuksUU0xqnkgSRDsjDB3e2CD9fqRTQ/https/upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?width=701&height=701" width=48>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pycoinfu&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![pycoinfu's GitHub stats](https://github-readme-stats.vercel.app/api?username=pycoinfu&hide=stars&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
