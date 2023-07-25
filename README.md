@@ -1,5 +1,5 @@
 ### Hello! 👋
-I'm just a hobbyist python programmer, with experience in using the pygame library. As of now, I'm interested in learning front-end web development.
+I'm just a hobbyist python programmer, with some experience in the pygame-ce library. As of now, I'm interested in learning web development.
 
 ### Things I'm a part of:
 - <a href="https://github.com/Matiiss/pygame_examples">pygame examples repository</a>
@@ -10,7 +10,7 @@ I'm just a hobbyist python programmer, with experience in using the pygame libra
 <img src="https://media.discordapp.net/attachments/1065276745076445194/1076165767260811284/git.png?width=701&height=701" width=48>
 
 ### Things I sorta' understand:
-<img src="https://media.discordapp.net/attachments/1065276745076445194/1071422394339692604/csslogo.png?width=660&height=701" width=48> <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width=48> <img src="https://media.discordapp.net/attachments/1065276745076445194/1071422409330151494/jslogo.png" width=48> <img src="https://media.discordapp.net/attachments/1065276745076445194/1122554133581398106/nodejs-logo-FBE122E377-seeklogo.png?width=292&height=330" width=48>
+<img src="https://media.discordapp.net/attachments/1065276745076445194/1071422394339692604/csslogo.png?width=660&height=701" width=48> <img src="https://media.discordapp.net/attachments/1065276745076445194/1071422409330151494/jslogo.png" width=48> <img src="https://media.discordapp.net/attachments/1065276745076445194/1122554133581398106/nodejs-logo-FBE122E377-seeklogo.png?width=292&height=330" width=48>
 
 
 ### Things I want to get good at:
